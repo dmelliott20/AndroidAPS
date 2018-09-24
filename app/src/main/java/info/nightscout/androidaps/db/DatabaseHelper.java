@@ -1741,5 +1741,5 @@ public class DatabaseHelper extends OrmLiteSqliteOpenHelper {
         return null;
     }
 
-    // ---------------- Food handling ---------------
+    // ---------------- Food handling --------------
 }
